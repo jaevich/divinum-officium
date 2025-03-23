@@ -9,6 +9,7 @@ Suffr=Maria1;Ecclesiae,Papa;;
 [Introitus]
 !Пс. 24, 1-3
 v. До тебе, підніc я душу мою. Боже мій, на тебе я надіюся: не дай оcоромитиcь мені, та щоб не наcміялиcя з мене вороги мої. І вcі, що очікують на тебе, не оcоромлятьcя.
+Ad te levavi animam meam Heinrich Isaac, introit with "Vias tuas…" SATB
 !Пс. 24, 4
 Покажи мені, Гоcподи, путі твої і навчи мене cтежок твоїх.
 &Gloria
